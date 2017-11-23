@@ -1,0 +1,11 @@
+{
+    "name": "hurricane/portofolio_personnel",
+    "description": "personnal portofolio",
+    "authors": [
+        {
+            "name": "Hurricane8",
+            "email": "paradox-sales19@live.fr"
+        }
+    ],
+    "require": {}
+}
