@@ -39,7 +39,7 @@ a:hover {
 #experience {
     background-image: url('../img/architecture-1914309_1920.jpg');
     padding: 3rem;
-    font-family: "Century Sc    hoolbook L";
+    font-family: 'aclonica';
 }
 
 #portfolio {
@@ -50,7 +50,7 @@ a:hover {
 #linkedin {
     background-image: url('../img/architecture-1914309_1920.jpg');
     padding: 1rem;
-    font-family: "Century Sc    hoolbook L";
+    font-family: 'aclonica';
     height:100vh;
 }
 #link {
@@ -69,17 +69,17 @@ p{
 h1,
 h4,
 h6 {
-    font-family: "Century Schoolbook L", 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'aclonica', Arial, sans-serif;
     color: #000000;
 }
 
 h5 {
-    font-family: "Century Schoolbook L", 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'aclonica', Arial, sans-serif;
     color: #ffffff;
     text-shadow: 1px 1px #000;
 }
 h2 {
-    font-family: "Century Schoolbook L", 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'aclonica', Arial, sans-serif;
     color: #ffffff;
     text-shadow: 1px 1px #000;
 }
@@ -122,7 +122,7 @@ body {
 #mainNav {
     border-bottom: 1px solid rgba(33, 37, 41, 0.1);
     background-color: #fff;
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'aclonica', Arial, sans-serif;
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
     transition: all 0.2s; }
@@ -130,7 +130,8 @@ body {
     font-weight: 700px;
     text-transform: uppercase;
     color: #324d80;
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
+    font-family: 'aclonica' Arial, sans-serif;
+   }
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
     color: #324d80; }
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -241,7 +242,7 @@ header.masthead p {
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     padding: 0 15px;
-    font-family: "Century Schoolbook L", 'Helvetica Neue', Arial, sans-serif; }
+    font-family: 'aclonica', Arial, sans-serif; }
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
     font-size: 14px;
     font-weight: 600;
@@ -266,7 +267,7 @@ header.masthead p {
     text-transform: uppercase;
     border: none;
     border-radius: 300px;
-    font-family: "Century Schoolbook L", 'Helvetica Neue', Arial, sans-serif; }
+    font-family: 'aclonica', Arial, sans-serif; }
 
 .btn-xl {
     padding: 1rem 2rem; }
@@ -379,5 +380,3 @@ header.masthead p {
 #footerStyle {
     background-color: white;
 }
-
-
